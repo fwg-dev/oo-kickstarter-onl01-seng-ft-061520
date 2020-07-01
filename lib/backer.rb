@@ -4,5 +4,5 @@ class Backer
   def initialize(name)
     @backer = backer
     @name = name
-
+  end
 end
