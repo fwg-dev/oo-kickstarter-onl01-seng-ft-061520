@@ -1,6 +1,6 @@
 class Backer
-  attr_reader :backed_projects
-  attr_accessor :backer
+  attr_reader :backer
+
 
   def initialize(name)
     @backer = backer
